@@ -1,0 +1,7 @@
+{
+  "name": "Wanaka Leaders Academy - Companion App",
+  "description": "An interactive post-workshop companion app for the AI for Leaders session, featuring the CRIT prompt builder, concept anchors, and quiz.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
